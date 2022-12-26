@@ -173,5 +173,13 @@
 		"name": "Joker",
 		"description": "我是傻逼！",
 		"github_username": "zhufacai"
+	},
+	
+	"28": {
+		"domain": "http://blog.goodfish.site",
+		"icon": "http://blog.goodfish.site/usr/uploads/logo_gf.png",
+		"name": "goodfish的故事",
+		"description": "横亘在我们面前的是那沉重的人生和漫长的时间，让人望而却步。",
+		"github_username": "goodfish-jhy"
 	}
 }
