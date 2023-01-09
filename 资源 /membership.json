@@ -174,4 +174,11 @@
 		"description": "我是傻逼！",
 		"github_username": "zhufacai"
 	}
+	"28": {
+		"domain": "blog.goodfish.site",
+		"icon": "https://blog.goodfish.site/usr/uploads/logo.png",
+		"name": "Goodfish的故事",
+		"description": "美丽的星空总在天的那一边",
+		"github_username": "goodfish-jhy"
+	}
 }
